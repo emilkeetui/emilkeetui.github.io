@@ -1,0 +1,32 @@
+---
+title: "Emil Kee-Ohl"
+about:
+  template: trestles
+  image: files/profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@university.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourprofile
+---
+
+## About
+
+I am a PhD candidate in economics at [Your University]. My research focuses on environmental health policy, labor economics, and the effects of workplace safety regulation on worker outcomes.
+
+## Research Interests
+
+- Environmental and occupational health policy
+- Labor economics
+- Applied econometrics (difference-in-differences, event studies)
+
+## Education
+
+**PhD in Economics** | Your University | Expected 20XX
+
+**BA/BS in Economics** | Your Undergraduate University | 20XX

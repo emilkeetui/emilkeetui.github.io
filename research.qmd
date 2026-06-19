@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+**Municipal Heat Ordinances and Worker Health: Evidence from Texas**
+
+[Download PDF](files/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+
+<details>
+<summary>Abstract</summary>
+This paper estimates the causal effects of municipal worker heat ordinances in Austin (2010) and Dallas (2015), and their repeal by Texas HB 2127 (September 2023), on workers' compensation claims and construction labor productivity. Using a difference-in-differences design that exploits the staggered adoption and sudden repeal of city-level ordinances, I find...
+</details>
+
+---
+
+## Working Papers
+
+**Paper Title Here** (with Coauthor Name)
+
+[Download PDF](files/other_paper.pdf){.btn .btn-outline-secondary .btn-sm}
+
+<details>
+<summary>Abstract</summary>
+Abstract text here...
+</details>
+
+---
+
+## Work in Progress
+
+- **Project Title** (with Coauthor Name) — Brief description.

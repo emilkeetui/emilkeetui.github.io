@@ -1,0 +1,38 @@
+/* Custom styles for personal website */
+
+/* Slightly larger body text */
+body {
+  font-size: 1.05rem;
+}
+
+/* Spacing for research page sections */
+.level2 {
+  margin-bottom: 1.5rem;
+}
+
+/* Style the download buttons */
+.btn {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Clean up the about page photo */
+.about-entity img {
+  border-radius: 50%;
+  max-width: 200px;
+}
+
+/* Details/summary styling for abstracts */
+details {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #495057;
+}

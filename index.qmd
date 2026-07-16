@@ -10,9 +10,10 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/emilkeetui
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/yourprofile
+    # TODO: add your real LinkedIn URL and uncomment the three lines below
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/YOUR-HANDLE
 ---
 
 ## About
@@ -29,6 +30,6 @@ I am a PhD candidate in Applied Economics and Management at Cornell University. 
 
 **PhD in Applied Economics and Management** | Cornell University | Expected 2027
 
-**MS in Applied Economics and Policy Analysis | University of Arizona | 2021
+**MS in Applied Economics and Policy Analysis** | University of Arizona | 2021
 
 **BA with a Major in Economics and Minor in Mathematics** | Colby College | 2019

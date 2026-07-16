@@ -1,2 +1,7 @@
 /.quarto/
 /_site/
+
+**/*.quarto_ipynb
+
+# Rendered site — built fresh by GitHub Actions on every push, not committed
+/docs/

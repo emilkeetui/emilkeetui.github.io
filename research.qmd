@@ -13,6 +13,12 @@ title: "Research"
 This paper estimates the causal effects of municipal worker heat ordinances in Austin (2010) and Dallas (2015), and their repeal by Texas HB 2127 (September 2023), on workers' compensation claims and construction labor productivity. Using a difference-in-differences design that exploits the staggered adoption and sudden repeal of city-level ordinances, I find...
 </details>
 
+<!--
+================================================================================
+TEMPLATES BELOW — fill in real content and delete the surrounding comment
+markers (<!-- and -->) to make a section appear on the live site.
+================================================================================
+
 ---
 
 ## Working Papers
@@ -31,3 +37,6 @@ Abstract text here...
 ## Work in Progress
 
 - **Project Title** (with Coauthor Name) — Brief description.
+
+-->
+

@@ -1,15 +1,15 @@
 ---
-title: "Emil Kee-Ohl"
+title: "Emil Kee-Tui"
 about:
   template: trestles
   image: files/profile.jpg
   links:
     - icon: envelope
       text: Email
-      href: mailto:your.email@university.edu
+      href: mailto:ek559@cornell.edu
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/emilkeetui
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/yourprofile
@@ -17,7 +17,7 @@ about:
 
 ## About
 
-I am a PhD candidate in economics at [Your University]. My research focuses on environmental health policy, labor economics, and the effects of workplace safety regulation on worker outcomes.
+I am a PhD candidate in Applied Economics and Management at Cornell University. My research focuses on environmental health policy, labor economics, and the effects of workplace safety regulation on worker outcomes.
 
 ## Research Interests
 
@@ -27,6 +27,8 @@ I am a PhD candidate in economics at [Your University]. My research focuses on e
 
 ## Education
 
-**PhD in Economics** | Your University | Expected 20XX
+**PhD in Applied Economics and Management** | Cornell University | Expected 2027
 
-**BA/BS in Economics** | Your Undergraduate University | 20XX
+**MS in Applied Economics and Policy Analysis | University of Arizona | 2021
+
+**BA with a Major in Economics and Minor in Mathematics** | Colby College | 2019

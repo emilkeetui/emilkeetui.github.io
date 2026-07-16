@@ -10,10 +10,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/emilkeetui
-    # TODO: add your real LinkedIn URL and uncomment the three lines below
-    # - icon: linkedin
-    #   text: LinkedIn
-    #   href: https://www.linkedin.com/in/YOUR-HANDLE
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emil-kee-tui-3937b6211/
 ---
 
 ## About

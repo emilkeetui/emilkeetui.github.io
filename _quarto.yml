@@ -11,8 +11,10 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: files/cv.pdf
+      - href: cv.qmd
         text: CV
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:

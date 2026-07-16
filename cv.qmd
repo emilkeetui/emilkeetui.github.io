@@ -1,0 +1,17 @@
+---
+title: "Curriculum Vitae"
+---
+
+My full CV will be posted here soon. In the meantime, see my [Resume](resume.qmd)
+or [email me](mailto:ek559@cornell.edu) for a copy.
+
+<!--
+When your CV PDF is ready, save it as files/cv.pdf, then DELETE the paragraph
+above and REMOVE these comment markers (<!-- and -->) to show the CV below:
+
+[Download PDF](files/cv.pdf){.btn .btn-primary}
+
+<iframe src="files/cv.pdf" width="100%" height="800px" style="border: 1px solid #ccc; margin-top: 1rem;">
+This browser does not support embedded PDFs. [Download the CV](files/cv.pdf) instead.
+</iframe>
+-->

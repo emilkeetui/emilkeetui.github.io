@@ -1,12 +1,13 @@
 # Assets folder
 
 Site assets live here. Present now: `profile.jpg` (home-page headshot) and
-`cv.pdf` (navbar CV link).
+`resume.pdf` (shown on the Resume page).
 
 Still to add when ready:
 
 | File | Referenced by | Purpose |
 |------|---------------|---------|
+| `cv.pdf` | `cv.qmd` (CV page) | Your full CV. The CV page shows a placeholder note until this exists. |
 | `jmp.pdf` | `research.qmd` → Job Market Paper | Your job market paper PDF. The "Download PDF" link 404s until this exists. |
 | `other_paper.pdf` | `research.qmd` (commented-out template) | Only needed if you un-comment the Working Papers section. |
 

@@ -15,8 +15,11 @@ This paper estimates the causal effects of municipal worker heat ordinances in A
 
 <!--
 ================================================================================
-TEMPLATES BELOW — fill in real content and delete the surrounding comment
-markers (<!-- and -->) to make a section appear on the live site.
+TEMPLATES BELOW are hidden from the live site because they sit inside this HTML
+comment block. To publish a section: fill in the real content, then remove the
+comment-open line at the top of this block and the comment-close line at the
+very bottom. (Do not type the comment markers anywhere in between — an early
+closing marker would leak the rest of the page onto the live site.)
 ================================================================================
 
 ---

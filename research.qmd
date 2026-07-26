@@ -4,13 +4,13 @@ title: "Research"
 
 ## Job Market Paper
 
-**Municipal Heat Ordinances and Worker Health: Evidence from Texas**
+**The Effect of Contamination on Self Reporting Environmental Quality: US Coal Mining and Drinking Water Utilities**
 
 [Download PDF](files/jmp.pdf){.btn .btn-outline-primary .btn-sm}
 
 <details>
 <summary>Abstract</summary>
-This paper estimates the causal effects of municipal worker heat ordinances in Austin (2010) and Dallas (2015), and their repeal by Texas HB 2127 (September 2023), on workers' compensation claims and construction labor productivity. Using a difference-in-differences design that exploits the staggered adoption and sudden repeal of city-level ordinances, I find...
+Inducing self-reporting compliance with a regulatory standard requires careful incentive compatibility design when self-reporting may be incriminating or costly. I study how US drinking water utilities' self-reporting compliance responds to exogenous decreases in regulated water quality caused by coal mining contamination. I measure a utility's exposure to water contamination from coal mining with an instrumental variable that uses the plausibly exogenous temporal and spatial changes in coal mining induced by the Acid Rain Program. I find that an additional coal mine upstream of a utility causes a large and significant decrease in self reporting water quality tests. This is driven by an increase in the cost of self reporting due to contamination, without a commensurate increase in the penalties for not monitoring.
 </details>
 
 <!--

@@ -17,13 +17,16 @@ about:
 
 ## About
 
-I am a PhD candidate in Applied Economics and Management at Cornell University. My research focuses on environmental health policy, labor economics, and the effects of workplace safety regulation on worker outcomes.
+PhD Applied Microeconomist with expertise in environmental economics, causal inference, market/non-market product valuation, hedonics, consumer demand modelling, and big data analysis. Proven researcher able to combine public and proprietary data with theory to derive insights into firm, regulator, and consumer behavior. Seeking roles in research, teaching, consulting, economic strategy, and tech.
 
 ## Research Interests
 
-- Environmental and occupational health policy
-- Labor economics
-- Applied econometrics (difference-in-differences, event studies)
+- Regulation
+- Environmental economics
+- Critical minerals
+- Health economics
+- Climate change and productivity
+- Water quality
 
 ## Education
 

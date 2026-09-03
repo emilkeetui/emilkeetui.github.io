@@ -13,6 +13,26 @@ title: "Research"
 Inducing self-reporting compliance with a regulatory standard requires careful incentive compatibility design when self-reporting may be incriminating or costly. I study how US drinking water utilities' self-reporting compliance responds to exogenous decreases in regulated water quality caused by coal mining contamination. I measure a utility's exposure to water contamination from coal mining with an instrumental variable that uses the plausibly exogenous temporal and spatial changes in coal mining induced by the Acid Rain Program. I find that an additional coal mine upstream of a utility causes a large and significant decrease in self reporting water quality tests. This is driven by an increase in the cost of self reporting due to contamination, without a commensurate increase in the penalties for not monitoring.
 </details>
 
+---
+
+## Working Papers
+
+**A More Complete Valuation of US Lake Water Quality**
+
+<details>
+<summary>Abstract</summary>
+Standard hedonic models of water quality capture only the value of lakes near a home, understating willingness to pay for water bodies that residents visit but do not live beside. This paper estimates the marginal willingness to pay for lake water quality across more than 300 Core Based Statistical Areas in the contiguous United States using an embedded recreation demand model within a hedonic house price framework. In a first stage, I estimate a discrete-choice recreation demand model at the census block group level, in which residents choose among lake recreation sites within their local market or an outside option, as a function of travel cost and site cyanobacterial harmful algal bloom (cyanoHAB) levels measured from daily satellite imagery. This yields a block-group-level expected compensating surplus from lake recreation. In a second stage, this recreation surplus is embedded as a regressor in a hedonic house price model, alongside local dissolved oxygen readings, to recover the total (direct amenity plus recreational) value of lake water quality. The analysis draws on three novel data sources at national scale: cell phone mobility data (Advan) tracking approximately 46 million devices to measure recreational visits to over 2,000 lakes, satellite-derived cyanobacterial cell counts (NOAA's Cyanobacterial Assessment Network) as a high-frequency, highly visible measure of water quality, and ATTOM property transaction records for single-family homes sold between 2019 and 2022. This is the first application of national cell phone mobility data within an embedded recreation hedonic model, and the largest-scale hedonic estimate of lake water quality to combine recreation demand and property values. By capturing the value that non-shoreline residents place on lakes they travel to visit, the approach offers a more complete accounting of the benefits of pollution abatement policy than hedonic models restricted to properties near the water's edge.
+</details>
+
+---
+
+**Are Municipal Heat Ordinances Effective Climate Adaptation Tools?**
+
+<details>
+<summary>Abstract</summary>
+Rising extreme heat from climate change poses growing risks to worker health, particularly in outdoor sectors like construction, yet the United States has no federal workplace heat standard and protections vary widely by state and locality. Texas offers a rare natural experiment for evaluating the causal effects of municipal heat protection ordinances: Austin (2010) and Dallas (2015) enacted local worker heat protections, and in September 2023 the Texas Legislature's HB 2127 abruptly nullified these ordinances statewide and preempted future municipal action. We combine 2010–2026 Texas Workers' Compensation claims data (38 million individual claims, including heat-related illnesses and workplace injuries potentially linked to heat via cognitive and physical effects) with 4km gridded PRISM daily temperature, precipitation, and humidity data aggregated to commuting zones, and plan to incorporate construction-project-level daily productivity records from TXDOT Daily Work Reports. Using a binned-temperature difference-in-differences and event-study design that exploits both the staggered adoption of the two city ordinances and their simultaneous statewide repeal, we estimate (1) the impact of municipal heat ordinances on medical utilization from heat-related and other workplace injuries, (2) the effect of HB 2127's repeal on the same outcomes, and (3) the mitigating effect of ordinances and their repeal on labor productivity in construction. The analysis is motivated by competing hypotheses about firms' private incentives to protect workers from heat: if labor markets are competitive and risks well understood, ordinances should have little effect; if firms bear only a small share of heat-related costs or under-invest due to information frictions, municipal regulation could meaningfully improve worker health, and preemption laws like HB 2127 could be maladaptive. By providing credible causal evidence on the efficacy of local heat protection policy, this project aims to inform the evidence base for state and federal (e.g., OSHA) climate adaptation regulation.
+</details>
+
 <!--
 ================================================================================
 TEMPLATES BELOW are hidden from the live site because they sit inside this HTML
@@ -21,19 +41,6 @@ comment-open line at the top of this block and the comment-close line at the
 very bottom. (Do not type the comment markers anywhere in between — an early
 closing marker would leak the rest of the page onto the live site.)
 ================================================================================
-
----
-
-## Working Papers
-
-**Paper Title Here** (with Coauthor Name)
-
-[Download PDF](files/other_paper.pdf){.btn .btn-outline-secondary .btn-sm}
-
-<details>
-<summary>Abstract</summary>
-Abstract text here...
-</details>
 
 ---
 

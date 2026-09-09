@@ -33,20 +33,14 @@ Standard hedonic models of water quality capture only the value of lakes near a 
 Rising extreme heat from climate change poses growing risks to worker health, particularly in outdoor sectors like construction, yet the United States has no federal workplace heat standard and protections vary widely by state and locality. Texas offers a rare natural experiment for evaluating the causal effects of municipal heat protection ordinances: Austin (2010) and Dallas (2015) enacted local worker heat protections, and in September 2023 the Texas Legislature's HB 2127 abruptly nullified these ordinances statewide and preempted future municipal action. We combine 2010–2026 Texas Workers' Compensation claims data (38 million individual claims, including heat-related illnesses and workplace injuries potentially linked to heat via cognitive and physical effects) with 4km gridded PRISM daily temperature, precipitation, and humidity data aggregated to commuting zones, and plan to incorporate construction-project-level daily productivity records from TXDOT Daily Work Reports. Using a binned-temperature difference-in-differences and event-study design that exploits both the staggered adoption of the two city ordinances and their simultaneous statewide repeal, we estimate (1) the impact of municipal heat ordinances on medical utilization from heat-related and other workplace injuries, (2) the effect of HB 2127's repeal on the same outcomes, and (3) the mitigating effect of ordinances and their repeal on labor productivity in construction. The analysis is motivated by competing hypotheses about firms' private incentives to protect workers from heat: if labor markets are competitive and risks well understood, ordinances should have little effect; if firms bear only a small share of heat-related costs or under-invest due to information frictions, municipal regulation could meaningfully improve worker health, and preemption laws like HB 2127 could be maladaptive. By providing credible causal evidence on the efficacy of local heat protection policy, this project aims to inform the evidence base for state and federal (e.g., OSHA) climate adaptation regulation.
 </details>
 
-<!--
-================================================================================
-TEMPLATES BELOW are hidden from the live site because they sit inside this HTML
-comment block. To publish a section: fill in the real content, then remove the
-comment-open line at the top of this block and the comment-close line at the
-very bottom. (Do not type the comment markers anywhere in between — an early
-closing marker would leak the rest of the page onto the live site.)
-================================================================================
-
 ---
 
 ## Work in Progress
 
-- **Project Title** (with Coauthor Name) — Brief description.
+**Competition for Space, Water, and Lithium Brine in Arkansas** (with Beia Spiller)
 
--->
+<details>
+<summary>Abstract</summary>
+The Smackover Formation in southern Arkansas holds lithium dissolved in brine equal to an estimated 35 to 136 percent of previously documented U.S. lithium reserves, and development is expected to accelerate as policymakers move to secure domestic supply chains for critical minerals. Extraction there will rely on direct lithium extraction (DLE), a technology that has not been commercialized at scale and whose environmental impacts — particularly water consumption and contamination — remain poorly understood. We ask where that expansion would place lithium production in direct competition with drinking water supply and settled population. We combine machine-learning estimates of dissolved lithium concentration in Smackover brines with hydrologic watershed boundaries, U.S. Environmental Protection Agency records of drinking water utility intakes, and gridded population counts from ORNL LandScan Global 2024, intersecting them to rank watersheds jointly by resource potential and exposure. The resulting map identifies where abundant lithium coincides with drinking water infrastructure and concentrated population, and therefore where a contamination event or a water-use conflict would carry the largest consequences for human health and water security. The framework offers an early screening tool for siting decisions, regulatory oversight, and risk mitigation as domestic lithium production expands.
+</details>
 

@@ -4,13 +4,13 @@ title: "Research"
 
 ## Job Market Paper
 
-**The Effect of Contamination on Self Reporting Environmental Quality: US Coal Mining and Drinking Water Utilities**
+**When Pollution Rises, Reporting Falls: Coal Mining and Self-Monitoring under the Safe Drinking Water Act**
 
-[Download PDF](files/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+[Download PDF](files/keetui-jmp.pdf){.btn .btn-outline-primary .btn-sm}
 
 <details>
 <summary>Abstract</summary>
-Inducing self-reporting compliance with a regulatory standard requires careful incentive compatibility design when self-reporting may be incriminating or costly. I study how US drinking water utilities' self-reporting compliance responds to exogenous decreases in regulated water quality caused by coal mining contamination. I measure a utility's exposure to water contamination from coal mining with an instrumental variable that uses the plausibly exogenous temporal and spatial changes in coal mining induced by the Acid Rain Program. I find that an additional coal mine upstream of a utility causes a large and significant decrease in self reporting water quality tests. This is driven by an increase in the cost of self reporting due to contamination, without a commensurate increase in the penalties for not monitoring.
+One regulatory model requires firms to self-report their own compliance, placing the cost of monitoring on the firm and creating an incentive to shirk on reporting. That incentive grows as monitoring costs rise, so if costs rise precisely in states of regulatory concern, firms under-report exactly when reporting is most valuable to the regulator. I document this perverse incentive among drinking water utilities in the United States. Coal mining is a source of water contamination, and sulfur emission regulation under the Acid Rain Program (ARP) drove exogenous shifts in the geography of coal extraction, altering regional contamination from upstream mining and raising the costs of both testing and treatment. To measure utility exposure to mining, I adapt an instrument for coal production based on the reallocation of coal supply across high- and low-sulfur mines following the ARP. Utilities with more upstream mining show higher arsenic, selenium, and barium concentrations, yet no increase in recorded contaminant limit violations. Instead, self-reporting of water quality falls by seven to ten percentage points, even as reporting requirements tighten with contamination. Regulators conduct sanitary visits to substitute for utilities' under-reporting: an additional upstream mine raises the likelihood of a regulator visit by 14 percentage points, yet those visits uncover no contaminant limit violations. Sanctions do not rise to deter under-reporting; an additional upstream mine reduces the likelihood of formal enforcement by 5.7 percentage points. Regulators could therefore raise self-reporting by increasing penalties for under-reporting.
 </details>
 
 ---

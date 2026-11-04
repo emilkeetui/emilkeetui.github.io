@@ -6,6 +6,8 @@ title: "Research"
 
 **When Pollution Rises, Reporting Falls: Coal Mining and Self-Reporting under the Safe Drinking Water Act**
 
+*Presented at CSQIEP 2026 and NAREA 2026*
+
 [Download PDF](files/keetui-jmp.pdf){.btn .btn-outline-primary .btn-sm}
 
 <details>
@@ -18,6 +20,8 @@ One model of regulation monitors the regulated's adherence to the law by requiri
 ## Work in Progress
 
 **A More Complete Valuation of US Lake Water Quality** (with Rouzbeh Rahai)
+
+*Presented at AAEA 2025*
 
 <details>
 <summary>Abstract</summary>

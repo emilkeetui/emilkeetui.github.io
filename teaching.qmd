@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+| Course | Term |
+|:-------|:-----|
+| **AEM 2600** Managerial Economics (Intermediate Microeconomics) | Fall 2026, Fall 2024 |
+| **ECON 1120** Introduction to Macroeconomics | Summer 2025, Summer 2024 |
+| **AEM 4190** Strategic Thinking (Introduction to Game Theory) | Spring 2025, Spring 2023 |
+| **AEM 4421** Research and Strategy in Emerging Markets | Spring 2024 |
+| **AEM 3205** Ethics in Business and Organizations | Fall 2022 |
